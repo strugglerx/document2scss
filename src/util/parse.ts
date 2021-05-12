@@ -1,4 +1,3 @@
-import { Node } from "parse5";
 import * as parse5 from "parse5";
 import * as jsbeautify from "js-beautify";
 
