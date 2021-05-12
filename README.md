@@ -1,7 +1,7 @@
 # document2scss
 [![language-go](https://img.shields.io/badge/language-typescript-orange.svg)](https://github.com/strugglerx)
-[![License](https://img.shields.io/github/license/strugglerx/wechat.svg?style=flat)](https://github.com/strugglerx)
-[![License](https://img.shields.io/github/stars/strugglerx/wechat?style=social)](https://github.com/strugglerx)
+[![License](https://img.shields.io/github/license/strugglerx/document2scss.svg?style=flat)](https://github.com/strugglerx)
+[![License](https://img.shields.io/github/stars/strugglerx/document2scss?style=social)](https://github.com/strugglerx)
 
 一个可以直接从当前选中的内容中解析出scss结构的小工具
 
