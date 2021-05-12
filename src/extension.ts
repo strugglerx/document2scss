@@ -19,8 +19,6 @@ export function activate(context: vscode.ExtensionContext) {
 	let disposable = vscode.commands.registerCommand('document2scss.document2scss', async () => {
 		// The code you place here will be executed every time your command is executed
 		new_logic.html2scss()
-		// Display a message box to the user
-		vscode.window.showInformationMessage('Hello World from document2scss struggler!');
 	});
 
 	context.subscriptions.push(disposable);

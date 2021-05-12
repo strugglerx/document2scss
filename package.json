@@ -2,7 +2,7 @@
   "name": "document2scss",
   "displayName": "document2scss",
   "description": "a util can extract class to scss  from selected document!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "html",
     "css",
